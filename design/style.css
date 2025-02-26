@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Figtree-Medium';
-    src: url('../assets/fonts/static/Figtree-Medium.ttf') format('truetype');
+    src: url('/design/fonts/static/Figtree-Medium.ttf') format('truetype');
   }
   
   @font-face {
     font-family: 'Figtree-ExtraBold';
-    src: url('../assets/fonts/static/Figtree-ExtraBold.ttf') format('truetype');
+    src: url('/design/fonts/static/Figtree-ExtraBold.ttf') format('truetype');
   }
   
   * {
@@ -104,7 +104,6 @@
     font-size: 0.85rem;
   }
   
-  /* Responsive design without media queries */
   .card {
     width: calc(100% - 2rem);
     margin: 0 auto;

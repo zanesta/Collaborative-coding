@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Figtree-Medium';
-    src: url('/design/fonts/static/Figtree-Medium.ttf') format('truetype');
+    src: url('./fonts/static/Figtree-Medium.ttf') format('truetype');
   }
   
   @font-face {
     font-family: 'Figtree-ExtraBold';
-    src: url('/design/fonts/static/Figtree-ExtraBold.ttf') format('truetype');
+    src: url('./fonts/static/Figtree-ExtraBold.ttf') format('truetype');
   }
   
   * {
